@@ -25,6 +25,4 @@ A GUI-based application that assesses the strength of a password based on variou
 
 2. **Clone the repository**:
    Open Command Prompt and run:
-   ```bash
-   git clone https://github.com/yourusername/password-complexity-checker.git
-   cd password-complexity-checker
+   ``
